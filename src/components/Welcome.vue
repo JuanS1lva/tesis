@@ -28,8 +28,9 @@
           justify="center"
         >
           <v-col
-            cols="10"
+            cols="12"
             md="6"
+            class="py-14 ml-8"
           >
             <base-heading>¿Bloqueado en tu investigación?</base-heading>
             <base-text>

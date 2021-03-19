@@ -28,9 +28,11 @@
           v-for="(service, i) in services"
           :key="i"
           class="text-center mb-3"
+          cols="12"
           sm="12"
           md="6"
           lg="4"
+          xl="2"
         >
           <v-avatar
             class="elevation-6 mb-2"
