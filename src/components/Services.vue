@@ -32,7 +32,6 @@
           sm="12"
           md="6"
           lg="4"
-          xl="2"
         >
           <v-avatar
             class="elevation-6 mb-2"
